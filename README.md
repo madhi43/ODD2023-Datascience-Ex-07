@@ -20,3 +20,10 @@ Save the data to the file
 # CODE
 
 # OUPUT
+
+
+
+
+# RESULT
+
+Thus various feature selection techniques on a dataset are performed and the data is saved to file. 
